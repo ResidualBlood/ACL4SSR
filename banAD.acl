@@ -43,7 +43,6 @@
 (^|\.)\w*duomeng\w*\.\w*$
 (^|\.)\w*dwtrack\w*\.\w*$
 (^|\.)\w*guanggao\w*\.\w*$
-(^|\.)\w*lianmeng\w*\.\w*$
 (^|\.)\w*omgmta\w*\.\w*$
 (^|\.)\w*omniture\w*\.\w*$
 (^|\.)\w*openx\w*\.\w*$
@@ -1685,7 +1684,9 @@
 # Douyu 斗鱼
 (^|\.)douyu\.com$
 (^|\.)douyu\.tv$
+(^|\.)douyuscdn\.com$
 (^|\.)douyutv\.com$
+
 
 # Epic
 (^|\.)epicgames\.com$
