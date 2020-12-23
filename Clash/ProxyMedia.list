@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-12-13 13:14:49
-# 数量：310条
+# 更新：2020-12-21 23:11:51
+# 数量：311条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -149,6 +149,7 @@ DOMAIN-SUFFIX,theplatform.com
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogo.com
