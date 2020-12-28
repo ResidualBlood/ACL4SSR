@@ -1,6 +1,6 @@
 #**********************************************************************
-# 10.03
-# 2020年10月3日11:41:57
+# 12.28
+# 2020年12月28日20:29:54
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -392,12 +392,6 @@
 (^|\.)sony\.com$
 (^|\.)sonyentertainmentnetwork\.com$
 
-# Spark
-(^|\.)amplitude\.com$
-(^|\.)firebaseio\.com$
-(^|\.)hockeyapp\.net$
-(^|\.)smartmailcloud\.com$
-
 # SteamCN
 (^|\.)csgo\.wmsj\.cn$
 (^|\.)dl\.steam\.ksyna\.com$
@@ -477,6 +471,7 @@
 (^|\.)\w*announce\w*\.\w*$
 (^|\.)\w*torrent\w*\.\w*$
 (^|\.)\w*tracker\w*\.\w*$
+(^|\.)animebytes\.tv$
 (^|\.)animetorrents\.me$
 (^|\.)awesome-hd\.me$
 (^|\.)beitai\.pt$
@@ -7577,6 +7572,13 @@
 173.244.209.150/32
 173.244.217.42/32
 209.95.56.60/32
+
+# Spark
+(^|\.)amplitude\.com$
+(^|\.)firebaseio\.com$
+(^|\.)hockeyapp\.net$
+(^|\.)readdle\.com$
+(^|\.)smartmailcloud\.com$
 
 # Steam
 (^|\.)fanatical\.com$

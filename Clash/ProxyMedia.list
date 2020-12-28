@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-12-21 23:11:51
-# 数量：311条
+# 更新：2020-12-28 20:40:00
+# 数量：321条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -83,10 +83,6 @@ DOMAIN-SUFFIX,dcblivedazn.akamaized.net
 DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,logx.optimizely.com
-DOMAIN-SUFFIX,onboarding.indazn.com
-DOMAIN-SUFFIX,pubby.indazn.com
-DOMAIN-SUFFIX,rail.discovery.indazn.com
 DOMAIN-SUFFIX,s.yimg.jp
 DOMAIN-SUFFIX,sentry.io
 
@@ -100,12 +96,12 @@ USER-AGENT,Disney*
 USER-AGENT,Disney+*
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,adobedtm.com
-DOMAIN-SUFFIX,bam.nr-date.net
+DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,cdn.registerdisney.go.com
-DOMAIN-SUFFIX,cdn.unid.go.com
-DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,cws.conviva.com
 DOMAIN-SUFFIX,d9.flashtalking.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disney-portal.my.onetrust.com
@@ -113,6 +109,7 @@ DOMAIN-SUFFIX,disney.demdex.net
 DOMAIN-SUFFIX,disney.my.sentry.io
 DOMAIN-SUFFIX,disneyplus.bn5x.net
 DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
@@ -148,6 +145,8 @@ DOMAIN-SUFFIX,theplatform.com
 # HBO
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
+DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,hbo.com
@@ -157,6 +156,8 @@ DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,manifest.prod.boltdns.net
+DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
 
 # HBO_GO_HKG
 USER-AGENT,HBO%20GO%20PROD%20HKG*
@@ -180,13 +181,20 @@ DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com
 
 # Hulu
+DOMAIN-SUFFIX,cws-hulu.conviva.com
 DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+DOMAIN-SUFFIX,huluad.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
 
 # HuluJapan
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yb.uncn.jp
 
 # ITV
 USER-AGENT,ITV_Player*
@@ -244,6 +252,8 @@ DOMAIN-SUFFIX,my5.tv
 
 # MyTVSuper
 USER-AGENT,mytv*
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 

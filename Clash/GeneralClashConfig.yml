@@ -507,11 +507,6 @@ cfw-bypass:
   - "*.playstationnetwork.com"
   - "*.sony.com"
   - "*.sonyentertainmentnetwork.com"
-  # Spark
-  - "*.amplitude.com"
-  - "*.firebaseio.com"
-  - "*.hockeyapp.net"
-  - "*.smartmailcloud.com"
   # SteamCN
   - "*.csgo.wmsj.cn"
   - "*.dl.steam.ksyna.com"
@@ -584,6 +579,7 @@ cfw-bypass:
   - "*announce*"
   - "*torrent*"
   - "*tracker*"
+  - "*.animebytes.tv"
   - "*.animetorrents.me"
   - "*.awesome-hd.me"
   - "*.beitai.pt"
