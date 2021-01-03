@@ -2,7 +2,7 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
   # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  # 更新：2020-12-28 20:39:57
+  # 更新：2021-01-03 18:06:38
   # 数量：2791条
 
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
@@ -270,7 +270,6 @@ payload:
   - DOMAIN-SUFFIX,anti-bot.baidu.com
   - DOMAIN-SUFFIX,ape-tagit.timeinc.net
   - DOMAIN-SUFFIX,apester.com/event
-  - DOMAIN-SUFFIX,api-location-prd.pelcro.com
   - DOMAIN-SUFFIX,api.nobeta.com.br
   - DOMAIN-SUFFIX,api.wipmania.com
   - DOMAIN-SUFFIX,apple.www.letv.com
@@ -282,7 +281,6 @@ payload:
   - DOMAIN-SUFFIX,as.mytoys.de
   - DOMAIN-SUFFIX,as.payback.it
   - DOMAIN-SUFFIX,as.yomonda.de
-  - DOMAIN-SUFFIX,as01.overbuff.com
   - DOMAIN-SUFFIX,aserve.directorym.com
   - DOMAIN-SUFFIX,asianimage-gb.asianimage.co.uk
   - DOMAIN-SUFFIX,astat.nikkei.com
@@ -864,6 +862,11 @@ payload:
   - DOMAIN-SUFFIX,etacontent.com
   - DOMAIN-SUFFIX,etui.fs.ml.com
   - DOMAIN-SUFFIX,eu.groupondata.com
+  - DOMAIN-SUFFIX,eu1l.dotabuff.com
+  - DOMAIN-SUFFIX,eu1l.overbuff.com
+  - DOMAIN-SUFFIX,eu1l.speedrun.com
+  - DOMAIN-SUFFIX,eu1l.trackdota.com
+  - DOMAIN-SUFFIX,eu1l.valorbuff.com
   - DOMAIN-SUFFIX,eulerian.belambra.be
   - DOMAIN-SUFFIX,eulerian.belambra.fr
   - DOMAIN-SUFFIX,eulerian.brandalley.fr
@@ -1053,7 +1056,6 @@ payload:
   - DOMAIN-SUFFIX,gets.faz.net
   - DOMAIN-SUFFIX,gj.mmstat.com
   - DOMAIN-SUFFIX,gjr5.yoigo.com
-  - DOMAIN-SUFFIX,gk3o.trackdota.com
   - DOMAIN-SUFFIX,glasgowtimes-gb.glasgowtimes.co.uk
   - DOMAIN-SUFFIX,glassmoni.researchgate.net
   - DOMAIN-SUFFIX,glbdns.microsoft.com
@@ -1167,13 +1169,14 @@ payload:
   - DOMAIN-SUFFIX,javascriptcounter.appspot.com
   - DOMAIN-SUFFIX,jelly.mdhv.io
   - DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
+  - DOMAIN-SUFFIX,k.kolplay.com
   - DOMAIN-SUFFIX,k.rueducommerce.fr
   - DOMAIN-SUFFIX,k.streamrail.com
-  - DOMAIN-SUFFIX,k9v7.dotabuff.com
   - DOMAIN-SUFFIX,kalstats.kaltura.com
   - DOMAIN-SUFFIX,kbn.korben.info
   - DOMAIN-SUFFIX,keighleynews-gb.keighleynews.co.uk
   - DOMAIN-SUFFIX,keyword.daumdn.com
+  - DOMAIN-SUFFIX,keywords.complex.com
   - DOMAIN-SUFFIX,kidderminstershuttle-gb.kidderminstershuttle.co.uk
   - DOMAIN-SUFFIX,kiks.auto.ru
   - DOMAIN-SUFFIX,kinesisproxy.hearstlabs.com
@@ -1248,6 +1251,7 @@ payload:
   - DOMAIN-SUFFIX,log.outbrain.com
   - DOMAIN-SUFFIX,log.outbrainimg.com
   - DOMAIN-SUFFIX,log.pinterest.com
+  - DOMAIN-SUFFIX,log.plinga.de
   - DOMAIN-SUFFIX,log.popin.cc
   - DOMAIN-SUFFIX,log.prezi.com
   - DOMAIN-SUFFIX,log.ren.tv
@@ -1405,7 +1409,6 @@ payload:
   - DOMAIN-SUFFIX,morozhko.club
   - DOMAIN-SUFFIX,mors22.com
   - DOMAIN-SUFFIX,mqs.ioam.de
-  - DOMAIN-SUFFIX,mqzy.dotabuff.com
   - DOMAIN-SUFFIX,ms-apps.haaretz.com
   - DOMAIN-SUFFIX,ms.computerbild.de
   - DOMAIN-SUFFIX,msg.71.am
@@ -1432,8 +1435,6 @@ payload:
   - DOMAIN-SUFFIX,nexttime.ovh
   - DOMAIN-SUFFIX,nil.naver.com
   - DOMAIN-SUFFIX,ninja.akamaized.net
-  - DOMAIN-SUFFIX,nj1r.valorbuff.com
-  - DOMAIN-SUFFIX,nkeq.speedrun.com
   - DOMAIN-SUFFIX,nm.newegg.com
   - DOMAIN-SUFFIX,nmtracking.netflix.com
   - DOMAIN-SUFFIX,noa0.compteczam.fr
@@ -1443,7 +1444,6 @@ payload:
   - DOMAIN-SUFFIX,nova.dice.net
   - DOMAIN-SUFFIX,nrg.red-by-sfr.fr
   - DOMAIN-SUFFIX,ns.rvmkitt.com
-  - DOMAIN-SUFFIX,nvea.valorbuff.com
   - DOMAIN-SUFFIX,nws.naltis.com
   - DOMAIN-SUFFIX,nxakpj4ac8gkd53.info
   - DOMAIN-SUFFIX,o.addthis.com
@@ -1600,7 +1600,6 @@ payload:
   - DOMAIN-SUFFIX,postpixel.vindicosuite.com
   - DOMAIN-SUFFIX,powercount.jswelt.de
   - DOMAIN-SUFFIX,powersearch.us.com
-  - DOMAIN-SUFFIX,pqoz.trackdota.com
   - DOMAIN-SUFFIX,pr.blogflux.com
   - DOMAIN-SUFFIX,prd-collector-anon.ex.co
   - DOMAIN-SUFFIX,prd-collector-anon.playbuzz.com
@@ -2269,6 +2268,7 @@ payload:
   - DOMAIN-SUFFIX,te.mytoys.de
   - DOMAIN-SUFFIX,te.supportfreecontent.com
   - DOMAIN-SUFFIX,ted.metro.co.uk
+  - DOMAIN-SUFFIX,telemetry.api.wmcdp.io
   - DOMAIN-SUFFIX,telemetry.art19.com
   - DOMAIN-SUFFIX,telemetry.jivosite.com
   - DOMAIN-SUFFIX,telemetry.reembed.com
@@ -2496,6 +2496,7 @@ payload:
   - DOMAIN-SUFFIX,tracking.g2crowd.com
   - DOMAIN-SUFFIX,tracking.gameforge.de
   - DOMAIN-SUFFIX,tracking.godatafeed.com
+  - DOMAIN-SUFFIX,tracking.gpm-rtv.ru
   - DOMAIN-SUFFIX,tracking.gruppo.mps.it
   - DOMAIN-SUFFIX,tracking.ha.rueducommerce.fr
   - DOMAIN-SUFFIX,tracking.hannoversche.de
@@ -2658,7 +2659,6 @@ payload:
   - DOMAIN-SUFFIX,utrack.hexun.com
   - DOMAIN-SUFFIX,uts.auction.co.kr
   - DOMAIN-SUFFIX,uue2.destinia.ir
-  - DOMAIN-SUFFIX,uuqz.overbuff.com
   - DOMAIN-SUFFIX,v.emedia.cn
   - DOMAIN-SUFFIX,v.oui.sncf
   - DOMAIN-SUFFIX,v.shopify.com
