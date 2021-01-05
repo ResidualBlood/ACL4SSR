@@ -1499,7 +1499,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：19549条
+# 数量：19551条
 (^|\.)00-gov\.cn$
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
@@ -2348,6 +2348,7 @@
 (^|\.)7n32vb7tn4w7n373a\.top$
 (^|\.)7n3e8o\.com$
 (^|\.)7news\.site$
+(^|\.)7q1z79gxsi\.global\.ssl\.fastly\.net$
 (^|\.)7tpfnjn03b32\.com$
 (^|\.)7wen\.cn$
 (^|\.)7x7\.fun$
@@ -6457,7 +6458,6 @@
 (^|\.)dm\.wenshenxiu\.com$
 (^|\.)dm\.zuowenku\.net$
 (^|\.)dm1\.ddwk8\.cn$
-(^|\.)dm1\.dnpz123\.com$
 (^|\.)dm1\.guanwawa\.com$
 (^|\.)dm1\.zjydt\.com$
 (^|\.)dmastescaugh\.info$
@@ -9813,6 +9813,7 @@
 (^|\.)inquiries\.redhat\.com$
 (^|\.)insectadvertisesecretly\.com$
 (^|\.)insight\.fonecta\.fi$
+(^|\.)insights\.algolia\.io$
 (^|\.)insights\.cdt\.ch$
 (^|\.)insights\.sitesearch360\.com$
 (^|\.)insitez\.blob\.core\.windows\.net$
@@ -10034,6 +10035,7 @@
 (^|\.)ja9377\.com$
 (^|\.)jaaqcdrpmyju\.com$
 (^|\.)jaavpuhxrsryk\.com$
+(^|\.)jac\.yahoosandbox\.com$
 (^|\.)jackettrain\.com$
 (^|\.)jacklm1\.com$
 (^|\.)jacklm2\.com$
@@ -14888,6 +14890,7 @@
 (^|\.)rangparenting\.com$
 (^|\.)rangsunbaa\.com$
 (^|\.)rankeringcult\.fun$
+(^|\.)ranqibio\.com$
 (^|\.)ranqpbnd\.com$
 (^|\.)ransparleddorob\.info$
 (^|\.)rapeuptown\.com$
@@ -14993,7 +14996,6 @@
 (^|\.)rechampouinerai\.website$
 (^|\.)rechaptalisent\.xyz$
 (^|\.)recheriend\.top$
-(^|\.)recipetocook\.recipes$
 (^|\.)reckedmane\.club$
 (^|\.)reco\.hardsextube\.com$
 (^|\.)recomine\.club$

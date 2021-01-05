@@ -2,7 +2,7 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
   # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-  # 更新：2021-01-03 18:06:34
+  # 更新：2021-01-04 21:25:22
   # 数量：5213条
 
   - DOMAIN-SUFFIX,00-gov.cn
@@ -898,7 +898,7 @@ payload:
   - DOMAIN-SUFFIX,baful.net
   - DOMAIN-SUFFIX,bahu.xyz
   - DOMAIN-SUFFIX,baiapk.com
-  - DOMAIN-SUFFIX,baidu.bxwx666.org
+  - DOMAIN-SUFFIX,baidu.bxwx555.org
   - DOMAIN-SUFFIX,baidu1.codejie.net
   - DOMAIN-SUFFIX,baiduace.com
   - DOMAIN-SUFFIX,baiduada.babihu.com
@@ -1555,7 +1555,6 @@ payload:
   - DOMAIN-SUFFIX,dm.wenshenxiu.com
   - DOMAIN-SUFFIX,dm.zuowenku.net
   - DOMAIN-SUFFIX,dm1.ddwk8.cn
-  - DOMAIN-SUFFIX,dm1.dnpz123.com
   - DOMAIN-SUFFIX,dm1.guanwawa.com
   - DOMAIN-SUFFIX,dm1.zjydt.com
   - DOMAIN-SUFFIX,dmm.aizhan.com
@@ -3578,6 +3577,7 @@ payload:
   - DOMAIN-SUFFIX,rabc1.iteye.com
   - DOMAIN-SUFFIX,raeqqe.cn
   - DOMAIN-SUFFIX,rainfinemalawi.com
+  - DOMAIN-SUFFIX,ranqibio.com
   - DOMAIN-SUFFIX,rbign.cn
   - DOMAIN-SUFFIX,rbmry.com
   - DOMAIN-SUFFIX,rbtjkx.cn
