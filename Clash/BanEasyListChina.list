@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2021-01-04 21:25:22
-# 数量：5213条
+# 更新：2021-01-05 21:19:06
+# 数量：5216条
 
 DOMAIN-SUFFIX,00-gov.cn
 DOMAIN-SUFFIX,0024aaaa.com
@@ -142,6 +142,7 @@ DOMAIN-SUFFIX,118ex.cn
 DOMAIN-SUFFIX,12.cookcai.com
 DOMAIN-SUFFIX,12086.net
 DOMAIN-SUFFIX,1214bdk.xyz
+DOMAIN-SUFFIX,1221dhb.xyz
 DOMAIN-SUFFIX,1224.dxsbb.com
 DOMAIN-SUFFIX,123456.asia
 DOMAIN-SUFFIX,12365chia.com
@@ -245,6 +246,7 @@ DOMAIN-SUFFIX,2pmob.com
 DOMAIN-SUFFIX,2polj.top
 DOMAIN-SUFFIX,2q5p.cn
 DOMAIN-SUFFIX,2scjbg.com
+DOMAIN-SUFFIX,2shol4.cn
 DOMAIN-SUFFIX,2shoushi.com
 DOMAIN-SUFFIX,2txt.cc:8862
 DOMAIN-SUFFIX,2zfzly.com
@@ -4439,6 +4441,7 @@ DOMAIN-SUFFIX,wwlolbs.com
 DOMAIN-SUFFIX,www-sina-cn-com.com
 DOMAIN-SUFFIX,www1.wxnmh.com
 DOMAIN-SUFFIX,wxbdfm.com
+DOMAIN-SUFFIX,wxebgpj.cn
 DOMAIN-SUFFIX,wxhdwy.com
 DOMAIN-SUFFIX,wxiansen.cn
 DOMAIN-SUFFIX,wxktv.cn

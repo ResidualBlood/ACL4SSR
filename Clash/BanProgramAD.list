@@ -475,8 +475,7 @@ DOMAIN-SUFFIX,stat.m.jd.com
 
 # Kugou
 DOMAIN-SUFFIX,ads.service.kugou.com
-DOMAIN-SUFFIX,bssdl.kugou.com
-DOMAIN-SUFFIX,bssdlbig.kugou.com
+DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com
 DOMAIN-SUFFIX,d.kugou.com
 DOMAIN-SUFFIX,downmobile.kugou.com
 DOMAIN-SUFFIX,gad.kugou.com

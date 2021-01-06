@@ -1499,7 +1499,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：19551条
+# 数量：19568条
 (^|\.)00-gov\.cn$
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
@@ -1689,6 +1689,7 @@
 (^|\.)12\.cookcai\.com$
 (^|\.)12086\.net$
 (^|\.)1214bdk\.xyz$
+(^|\.)1221dhb\.xyz$
 (^|\.)1221e236c3f8703\.com$
 (^|\.)1224\.dxsbb\.com$
 (^|\.)123456\.asia$
@@ -1884,6 +1885,7 @@
 (^|\.)2q5p\.cn$
 (^|\.)2scjbg\.com$
 (^|\.)2sh8fouhk84h\.com$
+(^|\.)2shol4\.cn$
 (^|\.)2shoushi\.com$
 (^|\.)2solo\.biz$
 (^|\.)2tpwcqot22mb\.com$
@@ -4000,7 +4002,7 @@
 (^|\.)bafwpcisfhfvma\.com$
 (^|\.)bahu\.xyz$
 (^|\.)baiapk\.com$
-(^|\.)baidu\.bxwx666\.org$
+(^|\.)baidu\.bxwx555\.org$
 (^|\.)baidu1\.codejie\.net$
 (^|\.)baiduace\.com$
 (^|\.)baiduada\.babihu\.com$
@@ -4310,6 +4312,7 @@
 (^|\.)bestssn\.com$
 (^|\.)bestvideo2019\.xyz$
 (^|\.)betahit\.click$
+(^|\.)betemolgar\.com$
 (^|\.)betohomeall\.com$
 (^|\.)betrayedregretdeadline\.com$
 (^|\.)betteradsystem\.com$
@@ -4565,7 +4568,6 @@
 (^|\.)boratestfishke\.info$
 (^|\.)borazita\.com$
 (^|\.)bordeded\.pro$
-(^|\.)borderbrush\.com$
 (^|\.)borehamwoodtimes-gb\.borehamwoodtimes\.co\.uk$
 (^|\.)bororango\.com$
 (^|\.)borotango\.com$
@@ -4690,6 +4692,7 @@
 (^|\.)buglethemfouls\.casa$
 (^|\.)buhatfjrk9dje10eme\.com$
 (^|\.)buildhoodpip\.club$
+(^|\.)buipovexhav\.com$
 (^|\.)bulankk\.com$
 (^|\.)bulb\.76\.my$
 (^|\.)bulbsanctify\.com$
@@ -5512,6 +5515,7 @@
 (^|\.)comparencelabl\.site$
 (^|\.)compensess\.club$
 (^|\.)compensions\.pro$
+(^|\.)compiletormentboats\.com$
 (^|\.)complicatedtelegraph\.com$
 (^|\.)complified\.club$
 (^|\.)composedwatchman\.com$
@@ -6112,6 +6116,7 @@
 (^|\.)dcdilhaybpzkvj\.com$
 (^|\.)dcdvie\.cn$
 (^|\.)dceni\.com$
+(^|\.)dcf\.espn\.com$
 (^|\.)dchnguasrxubf\.com$
 (^|\.)dcnqcql\.cn$
 (^|\.)dcontonalscho\.info$
@@ -7365,6 +7370,7 @@
 (^|\.)event\.dkb\.de$
 (^|\.)event\.getblue\.io$
 (^|\.)event\.syndigo\.cloud$
+(^|\.)event\.webcollage\.net$
 (^|\.)eventapi\.libring\.com$
 (^|\.)eventgateway\.soundcloud\.com$
 (^|\.)eventlog\.inspsearchapi\.com$
@@ -9044,6 +9050,7 @@
 (^|\.)hebzycw\.com$
 (^|\.)heckagny\.com$
 (^|\.)hedressive\.info$
+(^|\.)hedrvszms\.com$
 (^|\.)heedlessdessertchips\.com$
 (^|\.)heeevykjhujfy\.com$
 (^|\.)hehongmei\.top$
@@ -9746,6 +9753,7 @@
 (^|\.)imp\.go\.sohu\.com$
 (^|\.)imp\.optaim\.com$
 (^|\.)imp\.pvnsolutions\.com$
+(^|\.)implementtransmitted\.com$
 (^|\.)implicationdownloadpercy\.com$
 (^|\.)implishing\.club$
 (^|\.)impress\.vcita\.com$
@@ -10061,6 +10069,7 @@
 (^|\.)javascriptcounter\.appspot\.com$
 (^|\.)jaxwrwvxfscq\.com$
 (^|\.)jaxxenpro\.com$
+(^|\.)jayhintcull\.com$
 (^|\.)jazdoxthxiv\.com$
 (^|\.)jazmonbetter\.pro$
 (^|\.)jb\.dianshu119\.com$
@@ -11159,6 +11168,7 @@
 (^|\.)letheyemo\.site$
 (^|\.)letsdoarbitrage\.com$
 (^|\.)letsinfospree\.com$
+(^|\.)leukemiatwinklesagacious\.com$
 (^|\.)leveloped\.club$
 (^|\.)levenileheshe\.site$
 (^|\.)leveryone\.club$
@@ -11946,6 +11956,7 @@
 (^|\.)mengyuanwei\.com$
 (^|\.)menlochsuk\.club$
 (^|\.)mentalbackie\.site$
+(^|\.)mentalsweatextent\.com$
 (^|\.)mentcompa\.club$
 (^|\.)mentpyjam\.fun$
 (^|\.)mentredu\.top$
@@ -12220,6 +12231,7 @@
 (^|\.)mob1ledev1ces\.com$
 (^|\.)mobalert\.net$
 (^|\.)mobbahjug\.com$
+(^|\.)mobcrummymow\.com$
 (^|\.)mobilehdmi\.com$
 (^|\.)mobileoffers-al-download\.com$
 (^|\.)mobreach\.com$
@@ -17201,6 +17213,7 @@
 (^|\.)teipgupp\.com$
 (^|\.)tek-tek-trek\.com$
 (^|\.)tel-tel-fie\.com$
+(^|\.)telemetrics\.klaviyo\.com$
 (^|\.)telemetry\.api\.wmcdp\.io$
 (^|\.)telemetry\.art19\.com$
 (^|\.)telemetry\.jivosite\.com$
@@ -18562,6 +18575,7 @@
 (^|\.)vasb\.cn$
 (^|\.)vasgenerete\.site$
 (^|\.)vashoaft\.net$
+(^|\.)vasstycom\.com$
 (^|\.)vast\.spotim\.market$
 (^|\.)vatname\.info$
 (^|\.)vatrack\.hinet\.net$
@@ -18930,6 +18944,7 @@
 (^|\.)w3989\.com$
 (^|\.)w5wm7\.cn$
 (^|\.)w65p\.com$
+(^|\.)w88\.espn\.com$
 (^|\.)wa\.gmx\.fr$
 (^|\.)wa\.metro\.co\.uk$
 (^|\.)wa\.ui-portal\.de$
@@ -18984,6 +18999,7 @@
 (^|\.)warringtonguardian-gb\.warringtonguardian\.co\.uk$
 (^|\.)warron\.cn$
 (^|\.)warsalsintrol\.site$
+(^|\.)warumbistdusoarm\.space$
 (^|\.)wastedcooperate\.com$
 (^|\.)wastesshimssat\.world$
 (^|\.)watakaw133\.xyz$
@@ -19481,6 +19497,7 @@
 (^|\.)wxaeamianbg\.com$
 (^|\.)wxbdfm\.com$
 (^|\.)wxcwtehxsfri\.com$
+(^|\.)wxebgpj\.cn$
 (^|\.)wxhdwy\.com$
 (^|\.)wxiansen\.cn$
 (^|\.)wxiwegwffls\.com$

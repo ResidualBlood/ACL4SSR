@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2021-01-04 20:52:05
-# 数量：2794条
+# 更新：2021-01-05 21:19:11
+# 数量：2798条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -716,6 +716,7 @@ DOMAIN-SUFFIX,dbex-tracker-v2.driveback.ru
 DOMAIN-SUFFIX,dc.banggood.com
 DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,dccss.banggood.com
+DOMAIN-SUFFIX,dcf.espn.com
 DOMAIN-SUFFIX,dd.nytimes.com
 DOMAIN-SUFFIX,de-mi-nis-ner.info
 DOMAIN-SUFFIX,de-mi-nis-ner2.info
@@ -891,6 +892,7 @@ DOMAIN-SUFFIX,event.api.drift.com
 DOMAIN-SUFFIX,event.dkb.de
 DOMAIN-SUFFIX,event.getblue.io
 DOMAIN-SUFFIX,event.syndigo.cloud
+DOMAIN-SUFFIX,event.webcollage.net
 DOMAIN-SUFFIX,eventapi.libring.com
 DOMAIN-SUFFIX,eventgateway.soundcloud.com
 DOMAIN-SUFFIX,eventlog.inspsearchapi.com
@@ -2270,6 +2272,7 @@ DOMAIN-SUFFIX,tdf1.vente-unique.pt
 DOMAIN-SUFFIX,te.mytoys.de
 DOMAIN-SUFFIX,te.supportfreecontent.com
 DOMAIN-SUFFIX,ted.metro.co.uk
+DOMAIN-SUFFIX,telemetrics.klaviyo.com
 DOMAIN-SUFFIX,telemetry.api.wmcdp.io
 DOMAIN-SUFFIX,telemetry.art19.com
 DOMAIN-SUFFIX,telemetry.jivosite.com
@@ -2709,6 +2712,7 @@ DOMAIN-SUFFIX,vstats.digitaltrends.com
 DOMAIN-SUFFIX,vtf2f.banque-casino.fr
 DOMAIN-SUFFIX,vtrtl.de
 DOMAIN-SUFFIX,vv.ricardo.ch
+DOMAIN-SUFFIX,w88.espn.com
 DOMAIN-SUFFIX,wa.gmx.fr
 DOMAIN-SUFFIX,wa.metro.co.uk
 DOMAIN-SUFFIX,wa.ui-portal.de
