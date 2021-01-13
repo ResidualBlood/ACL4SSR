@@ -3,6 +3,9 @@
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
+# Getui
+DOMAIN-SUFFIX,dizhensubao.getui.com
+
 # Google
 DOMAIN,dl.google.com
 DOMAIN-SUFFIX,googletraveladservices.com

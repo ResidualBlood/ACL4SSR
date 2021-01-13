@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2021-01-05 21:19:15
-# 数量：329条
+# 更新：2021-01-12 22:37:57
+# 数量：330条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -268,6 +268,8 @@ DOMAIN-SUFFIX,tvb.com
 
 # Netflix
 USER-AGENT,Argo*
+DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
@@ -313,7 +315,6 @@ USER-AGENT,Niconico*
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,socdm.com
 
 # PBS
 USER-AGENT,PBS*

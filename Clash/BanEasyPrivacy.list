@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2021-01-05 21:19:11
-# 数量：2798条
+# 更新：2021-01-12 22:37:54
+# 数量：2814条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,a.20minutes.fr
 DOMAIN-SUFFIX,a.mobify.com
 DOMAIN-SUFFIX,a.o2u.jp
 DOMAIN-SUFFIX,a.tovarro.com
-DOMAIN-SUFFIX,a3xo-eng.spankbang.com
 DOMAIN-SUFFIX,a8ht.hipp.fr
 DOMAIN-SUFFIX,aa.avvo.com
 DOMAIN-SUFFIX,aax-eu-dub.amazon.com
@@ -360,6 +359,7 @@ DOMAIN-SUFFIX,beacon.thred.woven.com
 DOMAIN-SUFFIX,beacon.tingyun.com
 DOMAIN-SUFFIX,beacon.toyota.co.jp
 DOMAIN-SUFFIX,beacon.viewlift.com
+DOMAIN-SUFFIX,beacon.watch.impress.co.jp
 DOMAIN-SUFFIX,beacon.wikia-services.com
 DOMAIN-SUFFIX,beacon.www.theguardian.com
 DOMAIN-SUFFIX,beacon2.indieclick.com
@@ -418,6 +418,8 @@ DOMAIN-SUFFIX,buf.lemonde.fr
 DOMAIN-SUFFIX,bulb.76.my
 DOMAIN-SUFFIX,burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 DOMAIN-SUFFIX,burytimes-gb.burytimes.co.uk
+DOMAIN-SUFFIX,bvr.ast.snva.jp
+DOMAIN-SUFFIX,bvr.snva.jp
 DOMAIN-SUFFIX,bzclk.baidu.com
 DOMAIN-SUFFIX,c.bigmir.net
 DOMAIN-SUFFIX,c.gazetevatan.com
@@ -538,6 +540,7 @@ DOMAIN-SUFFIX,cmstrendslog.timesnow.tv
 DOMAIN-SUFFIX,cnstats.cdev.eu
 DOMAIN-SUFFIX,cnt.3dmy.net
 DOMAIN-SUFFIX,cnt.iceporn.com
+DOMAIN-SUFFIX,cnt.krasland.ru
 DOMAIN-SUFFIX,cnt.logoslovo.ru
 DOMAIN-SUFFIX,cnt.mastorage.net
 DOMAIN-SUFFIX,cnt.nicemix.com
@@ -592,6 +595,7 @@ DOMAIN-SUFFIX,contadores.miarroba.com
 DOMAIN-SUFFIX,contadores.miarroba.es
 DOMAIN-SUFFIX,contents-tracking.beop.io
 DOMAIN-SUFFIX,conversions.genieventures.co.uk
+DOMAIN-SUFFIX,cookie.sync.usonar.jp
 DOMAIN-SUFFIX,cookies.livepartners.com
 DOMAIN-SUFFIX,cookies.reedbusiness.nl
 DOMAIN-SUFFIX,cookietracker.cloudapp.net
@@ -727,6 +731,7 @@ DOMAIN-SUFFIX,deepknow.egoid.me
 DOMAIN-SUFFIX,dejavu.mercadolivre.com.br
 DOMAIN-SUFFIX,deliver.oztam.com.au
 DOMAIN-SUFFIX,deliver.ptgncdn.com
+DOMAIN-SUFFIX,delivery.satr.jp
 DOMAIN-SUFFIX,desa.fkapi.net
 DOMAIN-SUFFIX,desb.fkapi.net
 DOMAIN-SUFFIX,desr.fkapi.net
@@ -755,7 +760,6 @@ DOMAIN-SUFFIX,doa1.immobilier-neuf.com
 DOMAIN-SUFFIX,docileyellow.club
 DOMAIN-SUFFIX,dorsetecho-gb.dorsetecho.co.uk
 DOMAIN-SUFFIX,dot-stat.radikal.ru
-DOMAIN-SUFFIX,dot.wp.pl
 DOMAIN-SUFFIX,dp.shoprunner.com
 DOMAIN-SUFFIX,dpm.bluray-disc.de
 DOMAIN-SUFFIX,droitwichadvertiser-gb.droitwichadvertiser.co.uk
@@ -1172,6 +1176,7 @@ DOMAIN-SUFFIX,itracking.fccinteractive.com
 DOMAIN-SUFFIX,jac.yahoosandbox.com
 DOMAIN-SUFFIX,javascriptcounter.appspot.com
 DOMAIN-SUFFIX,jelly.mdhv.io
+DOMAIN-SUFFIX,jen.jiji.com
 DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
 DOMAIN-SUFFIX,k.kolplay.com
 DOMAIN-SUFFIX,k.rueducommerce.fr
@@ -1418,6 +1423,7 @@ DOMAIN-SUFFIX,ms.computerbild.de
 DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,mtag.mman.kr
 DOMAIN-SUFFIX,mtc.nhk.or.jp
+DOMAIN-SUFFIX,mtrcs.samba.tv
 DOMAIN-SUFFIX,mts-ws.rueducommerce.fr
 DOMAIN-SUFFIX,muatui.com
 DOMAIN-SUFFIX,mv.treehousei.com
@@ -1604,6 +1610,7 @@ DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,postpixel.vindicosuite.com
 DOMAIN-SUFFIX,powercount.jswelt.de
 DOMAIN-SUFFIX,powersearch.us.com
+DOMAIN-SUFFIX,pr.ameba.jp
 DOMAIN-SUFFIX,pr.blogflux.com
 DOMAIN-SUFFIX,prd-collector-anon.ex.co
 DOMAIN-SUFFIX,prd-collector-anon.playbuzz.com
@@ -1650,13 +1657,13 @@ DOMAIN-SUFFIX,px.wp.pl
 DOMAIN-SUFFIX,pxc.otto.de
 DOMAIN-SUFFIX,qubitanalytics.appspot.com
 DOMAIN-SUFFIX,r.bbci.co.uk
-DOMAIN-SUFFIX,r.mail.ru
 DOMAIN-SUFFIX,r.msn.com
 DOMAIN-SUFFIX,r.my.com
 DOMAIN-SUFFIX,r.sax.sina.com.cn
 DOMAIN-SUFFIX,radar.imgsmail.ru
 DOMAIN-SUFFIX,ramp.purch.com
 DOMAIN-SUFFIX,rand.com.ru
+DOMAIN-SUFFIX,ranking.apis.sankei-digital.co.jp
 DOMAIN-SUFFIX,rat.rakuten.co.jp
 DOMAIN-SUFFIX,rbc.magna.ru
 DOMAIN-SUFFIX,rc.rlcdn.com
@@ -1667,6 +1674,7 @@ DOMAIN-SUFFIX,rcsmetrics.it
 DOMAIN-SUFFIX,rd.alice.it
 DOMAIN-SUFFIX,rdtdlv.laredoute.fr
 DOMAIN-SUFFIX,reachandrich.antevenio.com
+DOMAIN-SUFFIX,realm.hearst3pcc.com
 DOMAIN-SUFFIX,reauthenticator.com
 DOMAIN-SUFFIX,rec-pl.quartic.pl
 DOMAIN-SUFFIX,rec.udn.com
@@ -1718,6 +1726,7 @@ DOMAIN-SUFFIX,rss.tmgrup.com.tr
 DOMAIN-SUFFIX,rt.flix360.com
 DOMAIN-SUFFIX,rt.prnewswire.com
 DOMAIN-SUFFIX,rta2.metro.co.uk
+DOMAIN-SUFFIX,rtg-endpoint.global.ssl.fastly.net
 DOMAIN-SUFFIX,rtn.thestar.com
 DOMAIN-SUFFIX,rtt.campanja.com
 DOMAIN-SUFFIX,rum.azion.com
@@ -1807,6 +1816,7 @@ DOMAIN-SUFFIX,soodatmish.com
 DOMAIN-SUFFIX,sourcepoint-mms.aetv.com
 DOMAIN-SUFFIX,sourcepoint-mms.history.com
 DOMAIN-SUFFIX,sourcepoint-mms.mylifetime.com
+DOMAIN-SUFFIX,sourcepoint.dexerto.com
 DOMAIN-SUFFIX,sourcepoint.vice.com
 DOMAIN-SUFFIX,southendstandard-gb.southendstandard.co.uk
 DOMAIN-SUFFIX,southwalesargus-gb.southwalesargus.co.uk
@@ -2223,6 +2233,7 @@ DOMAIN-SUFFIX,tag.aticdn.net
 DOMAIN-SUFFIX,tag.aumago.com
 DOMAIN-SUFFIX,tag.boulanger.fr
 DOMAIN-SUFFIX,tag.brandcdn.com
+DOMAIN-SUFFIX,tag.cribnotes.jp
 DOMAIN-SUFFIX,tag.goldenbees.fr
 DOMAIN-SUFFIX,tag.leadplace.fr
 DOMAIN-SUFFIX,tag.myplay.com
@@ -2241,6 +2252,7 @@ DOMAIN-SUFFIX,tags.msnbc.com
 DOMAIN-SUFFIX,tags.newscgp.com
 DOMAIN-SUFFIX,tags.op-palvelut.fi
 DOMAIN-SUFFIX,tags.refinery89.com
+DOMAIN-SUFFIX,tagtracking.vibescm.com
 DOMAIN-SUFFIX,tagx.nytimes.com
 DOMAIN-SUFFIX,tantrumall.club
 DOMAIN-SUFFIX,target.mirtesen.ru
@@ -2315,6 +2327,7 @@ DOMAIN-SUFFIX,tms.eharmony.ca
 DOMAIN-SUFFIX,tms.eharmony.co.uk
 DOMAIN-SUFFIX,tnla.thenewslens.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
+DOMAIN-SUFFIX,to.getnitropack.com
 DOMAIN-SUFFIX,tongji.mafengwo.cn
 DOMAIN-SUFFIX,tongji.meizu.com
 DOMAIN-SUFFIX,tools.ranker.com
@@ -2335,6 +2348,7 @@ DOMAIN-SUFFIX,tr.interlake.net
 DOMAIN-SUFFIX,tr.marsflag.com
 DOMAIN-SUFFIX,tr.n2.hk
 DOMAIN-SUFFIX,tr.price.com.hk
+DOMAIN-SUFFIX,tr.reco.combz.jp
 DOMAIN-SUFFIX,tr.snapchat.com
 DOMAIN-SUFFIX,tr.webantenna.info
 DOMAIN-SUFFIX,tr.werkenntwen.de
@@ -2550,6 +2564,7 @@ DOMAIN-SUFFIX,tracking.rtl.de
 DOMAIN-SUFFIX,tracking.s24.com
 DOMAIN-SUFFIX,tracking.scenepass.com
 DOMAIN-SUFFIX,tracking.searchmarketing.com
+DOMAIN-SUFFIX,tracking.sezzle.com
 DOMAIN-SUFFIX,tracking.shopstyle.com
 DOMAIN-SUFFIX,tracking.shoptogether.buy.com
 DOMAIN-SUFFIX,tracking.smartmeapp.com
@@ -2612,6 +2627,7 @@ DOMAIN-SUFFIX,trk.vindicosuite.com
 DOMAIN-SUFFIX,trowel.twitch.tv
 DOMAIN-SUFFIX,tru.webelapp.com
 DOMAIN-SUFFIX,trueffect.underarmour.com
+DOMAIN-SUFFIX,trusted-web-seal.cybertrust.ne.jp
 DOMAIN-SUFFIX,trx.smdatalabs.com
 DOMAIN-SUFFIX,trx3.famousfix.com
 DOMAIN-SUFFIX,ts.faz.net
