@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
   # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  # 更新：2021-01-09 19:59:56
-  # 数量：2798条
+  # 更新：2021-01-16 16:45:06
+  # 数量：2815条
 
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
@@ -360,6 +360,7 @@ payload:
   - DOMAIN-SUFFIX,beacon.tingyun.com
   - DOMAIN-SUFFIX,beacon.toyota.co.jp
   - DOMAIN-SUFFIX,beacon.viewlift.com
+  - DOMAIN-SUFFIX,beacon.watch.impress.co.jp
   - DOMAIN-SUFFIX,beacon.wikia-services.com
   - DOMAIN-SUFFIX,beacon.www.theguardian.com
   - DOMAIN-SUFFIX,beacon2.indieclick.com
@@ -418,6 +419,8 @@ payload:
   - DOMAIN-SUFFIX,bulb.76.my
   - DOMAIN-SUFFIX,burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
   - DOMAIN-SUFFIX,burytimes-gb.burytimes.co.uk
+  - DOMAIN-SUFFIX,bvr.ast.snva.jp
+  - DOMAIN-SUFFIX,bvr.snva.jp
   - DOMAIN-SUFFIX,bzclk.baidu.com
   - DOMAIN-SUFFIX,c.bigmir.net
   - DOMAIN-SUFFIX,c.gazetevatan.com
@@ -593,6 +596,7 @@ payload:
   - DOMAIN-SUFFIX,contadores.miarroba.es
   - DOMAIN-SUFFIX,contents-tracking.beop.io
   - DOMAIN-SUFFIX,conversions.genieventures.co.uk
+  - DOMAIN-SUFFIX,cookie.sync.usonar.jp
   - DOMAIN-SUFFIX,cookies.livepartners.com
   - DOMAIN-SUFFIX,cookies.reedbusiness.nl
   - DOMAIN-SUFFIX,cookietracker.cloudapp.net
@@ -717,7 +721,6 @@ payload:
   - DOMAIN-SUFFIX,dc.banggood.com
   - DOMAIN-SUFFIX,dc.letv.com
   - DOMAIN-SUFFIX,dccss.banggood.com
-  - DOMAIN-SUFFIX,dcf.espn.com
   - DOMAIN-SUFFIX,dd.nytimes.com
   - DOMAIN-SUFFIX,de-mi-nis-ner.info
   - DOMAIN-SUFFIX,de-mi-nis-ner2.info
@@ -728,6 +731,7 @@ payload:
   - DOMAIN-SUFFIX,dejavu.mercadolivre.com.br
   - DOMAIN-SUFFIX,deliver.oztam.com.au
   - DOMAIN-SUFFIX,deliver.ptgncdn.com
+  - DOMAIN-SUFFIX,delivery.satr.jp
   - DOMAIN-SUFFIX,desa.fkapi.net
   - DOMAIN-SUFFIX,desb.fkapi.net
   - DOMAIN-SUFFIX,desr.fkapi.net
@@ -1147,7 +1151,6 @@ payload:
   - DOMAIN-SUFFIX,imx.comedycentral.com
   - DOMAIN-SUFFIX,infinityid.condenastdigital.com
   - DOMAIN-SUFFIX,informers.sinoptik.ua
-  - DOMAIN-SUFFIX,ingest.sentry.io
   - DOMAIN-SUFFIX,inquiries.redhat.com
   - DOMAIN-SUFFIX,insight.fonecta.fi
   - DOMAIN-SUFFIX,insights.algolia.io
@@ -1172,6 +1175,7 @@ payload:
   - DOMAIN-SUFFIX,jac.yahoosandbox.com
   - DOMAIN-SUFFIX,javascriptcounter.appspot.com
   - DOMAIN-SUFFIX,jelly.mdhv.io
+  - DOMAIN-SUFFIX,jen.jiji.com
   - DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
   - DOMAIN-SUFFIX,k.kolplay.com
   - DOMAIN-SUFFIX,k.rueducommerce.fr
@@ -1356,6 +1360,7 @@ payload:
   - DOMAIN-SUFFIX,metrics.ctvdigital.net
   - DOMAIN-SUFFIX,metrics.ee.co.uk
   - DOMAIN-SUFFIX,metrics.extremetech.com
+  - DOMAIN-SUFFIX,metrics.getvitals.io
   - DOMAIN-SUFFIX,metrics.n-tv.de
   - DOMAIN-SUFFIX,metrics.readme.io
   - DOMAIN-SUFFIX,metrics.scribblelive.com
@@ -1488,6 +1493,7 @@ payload:
   - DOMAIN-SUFFIX,p.aty.sohu.com
   - DOMAIN-SUFFIX,p.eyebuydirect-cmr.net
   - DOMAIN-SUFFIX,p.gazeta.pl
+  - DOMAIN-SUFFIX,p.kolplay.com
   - DOMAIN-SUFFIX,p.milliyet.com.tr
   - DOMAIN-SUFFIX,p.pagesjaunes.fr
   - DOMAIN-SUFFIX,p.tencentmind.com
@@ -1605,6 +1611,7 @@ payload:
   - DOMAIN-SUFFIX,postpixel.vindicosuite.com
   - DOMAIN-SUFFIX,powercount.jswelt.de
   - DOMAIN-SUFFIX,powersearch.us.com
+  - DOMAIN-SUFFIX,pr.ameba.jp
   - DOMAIN-SUFFIX,pr.blogflux.com
   - DOMAIN-SUFFIX,prd-collector-anon.ex.co
   - DOMAIN-SUFFIX,prd-collector-anon.playbuzz.com
@@ -1657,6 +1664,7 @@ payload:
   - DOMAIN-SUFFIX,radar.imgsmail.ru
   - DOMAIN-SUFFIX,ramp.purch.com
   - DOMAIN-SUFFIX,rand.com.ru
+  - DOMAIN-SUFFIX,ranking.apis.sankei-digital.co.jp
   - DOMAIN-SUFFIX,rat.rakuten.co.jp
   - DOMAIN-SUFFIX,rbc.magna.ru
   - DOMAIN-SUFFIX,rc.rlcdn.com
@@ -1719,6 +1727,7 @@ payload:
   - DOMAIN-SUFFIX,rt.flix360.com
   - DOMAIN-SUFFIX,rt.prnewswire.com
   - DOMAIN-SUFFIX,rta2.metro.co.uk
+  - DOMAIN-SUFFIX,rtg-endpoint.global.ssl.fastly.net
   - DOMAIN-SUFFIX,rtn.thestar.com
   - DOMAIN-SUFFIX,rtt.campanja.com
   - DOMAIN-SUFFIX,rum.azion.com
@@ -1808,6 +1817,7 @@ payload:
   - DOMAIN-SUFFIX,sourcepoint-mms.aetv.com
   - DOMAIN-SUFFIX,sourcepoint-mms.history.com
   - DOMAIN-SUFFIX,sourcepoint-mms.mylifetime.com
+  - DOMAIN-SUFFIX,sourcepoint.dexerto.com
   - DOMAIN-SUFFIX,sourcepoint.vice.com
   - DOMAIN-SUFFIX,southendstandard-gb.southendstandard.co.uk
   - DOMAIN-SUFFIX,southwalesargus-gb.southwalesargus.co.uk
@@ -2224,6 +2234,8 @@ payload:
   - DOMAIN-SUFFIX,tag.aumago.com
   - DOMAIN-SUFFIX,tag.boulanger.fr
   - DOMAIN-SUFFIX,tag.brandcdn.com
+  - DOMAIN-SUFFIX,tag.cribnotes.jp
+  - DOMAIN-SUFFIX,tag.elevaate.io
   - DOMAIN-SUFFIX,tag.goldenbees.fr
   - DOMAIN-SUFFIX,tag.leadplace.fr
   - DOMAIN-SUFFIX,tag.myplay.com
@@ -2242,6 +2254,7 @@ payload:
   - DOMAIN-SUFFIX,tags.newscgp.com
   - DOMAIN-SUFFIX,tags.op-palvelut.fi
   - DOMAIN-SUFFIX,tags.refinery89.com
+  - DOMAIN-SUFFIX,tagtracking.vibescm.com
   - DOMAIN-SUFFIX,tagx.nytimes.com
   - DOMAIN-SUFFIX,tantrumall.club
   - DOMAIN-SUFFIX,target.mirtesen.ru
@@ -2316,6 +2329,7 @@ payload:
   - DOMAIN-SUFFIX,tms.eharmony.co.uk
   - DOMAIN-SUFFIX,tnla.thenewslens.com
   - DOMAIN-SUFFIX,tns.simba.taobao.com
+  - DOMAIN-SUFFIX,to.getnitropack.com
   - DOMAIN-SUFFIX,tongji.mafengwo.cn
   - DOMAIN-SUFFIX,tongji.meizu.com
   - DOMAIN-SUFFIX,tools.ranker.com
@@ -2336,6 +2350,7 @@ payload:
   - DOMAIN-SUFFIX,tr.marsflag.com
   - DOMAIN-SUFFIX,tr.n2.hk
   - DOMAIN-SUFFIX,tr.price.com.hk
+  - DOMAIN-SUFFIX,tr.reco.combz.jp
   - DOMAIN-SUFFIX,tr.snapchat.com
   - DOMAIN-SUFFIX,tr.webantenna.info
   - DOMAIN-SUFFIX,tr.werkenntwen.de
@@ -2551,6 +2566,7 @@ payload:
   - DOMAIN-SUFFIX,tracking.s24.com
   - DOMAIN-SUFFIX,tracking.scenepass.com
   - DOMAIN-SUFFIX,tracking.searchmarketing.com
+  - DOMAIN-SUFFIX,tracking.sezzle.com
   - DOMAIN-SUFFIX,tracking.shopstyle.com
   - DOMAIN-SUFFIX,tracking.shoptogether.buy.com
   - DOMAIN-SUFFIX,tracking.smartmeapp.com
@@ -2613,6 +2629,7 @@ payload:
   - DOMAIN-SUFFIX,trowel.twitch.tv
   - DOMAIN-SUFFIX,tru.webelapp.com
   - DOMAIN-SUFFIX,trueffect.underarmour.com
+  - DOMAIN-SUFFIX,trusted-web-seal.cybertrust.ne.jp
   - DOMAIN-SUFFIX,trx.smdatalabs.com
   - DOMAIN-SUFFIX,trx3.famousfix.com
   - DOMAIN-SUFFIX,ts.faz.net

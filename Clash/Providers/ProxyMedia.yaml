@@ -1,7 +1,7 @@
 payload:
   # 内容：国外媒体列表
-  # 更新：2021-01-09 19:59:58
-  # 数量：329条
+  # 更新：2021-01-16 16:45:09
+  # 数量：330条
 
   # ABC
   - DOMAIN-SUFFIX,edgedatg.com
@@ -269,6 +269,8 @@ payload:
 
   # Netflix
   # USER-AGENT,Argo*
+  - DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
+  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
   - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,netflix.com
@@ -314,7 +316,6 @@ payload:
   - DOMAIN-SUFFIX,dmc.nico
   - DOMAIN-SUFFIX,nicovideo.jp
   - DOMAIN-SUFFIX,nimg.jp
-  - DOMAIN-SUFFIX,socdm.com
 
   # PBS
   # USER-AGENT,PBS*

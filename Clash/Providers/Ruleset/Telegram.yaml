@@ -1,8 +1,6 @@
 payload:
   # 内容：Telegram
-  # 数量：15条
-  # PROCESS-NAME,Telegram.exe
-  # PROCESS-NAME,org.telegram.messenger
+  # 数量：13条
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tdesktop.com
