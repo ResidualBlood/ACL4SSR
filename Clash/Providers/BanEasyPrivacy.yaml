@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
   # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  # 更新：2021-01-16 16:45:06
-  # 数量：2815条
+  # 更新：2021-01-22 23:43:39
+  # 数量：2818条
 
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
@@ -160,6 +160,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.linktr.ee
   - DOMAIN-SUFFIX,analytics.live.com
   - DOMAIN-SUFFIX,analytics.liveact.cri-mw.jp
+  - DOMAIN-SUFFIX,analytics.livehindustan.com
   - DOMAIN-SUFFIX,analytics.livestream.com
   - DOMAIN-SUFFIX,analytics.localytics.com
   - DOMAIN-SUFFIX,analytics.logsss.com
@@ -268,6 +269,7 @@ payload:
   - DOMAIN-SUFFIX,andoveradvertiser-gb.andoveradvertiser.co.uk
   - DOMAIN-SUFFIX,anon-stats.eff.org
   - DOMAIN-SUFFIX,anti-bot.baidu.com
+  - DOMAIN-SUFFIX,aorta.clickagy.com
   - DOMAIN-SUFFIX,ape-tagit.timeinc.net
   - DOMAIN-SUFFIX,apester.com/event
   - DOMAIN-SUFFIX,api.nobeta.com.br
@@ -570,6 +572,7 @@ payload:
   - DOMAIN-SUFFIX,collector.ksax.com
   - DOMAIN-SUFFIX,collector.kstptv5.com
   - DOMAIN-SUFFIX,collector.mazeberry.com
+  - DOMAIN-SUFFIX,collector.ozeex.com
   - DOMAIN-SUFFIX,collector.prod.expedia.com
   - DOMAIN-SUFFIX,collector.rn.de
   - DOMAIN-SUFFIX,collector.roistat.com
@@ -987,7 +990,6 @@ payload:
   - DOMAIN-SUFFIX,g2575096355.co
   - DOMAIN-SUFFIX,g2773180690.co
   - DOMAIN-SUFFIX,g2971265025.co
-  - DOMAIN-SUFFIX,g2insights-cdn.azureedge.net
   - DOMAIN-SUFFIX,g3169349360.co
   - DOMAIN-SUFFIX,g3367433695.co
   - DOMAIN-SUFFIX,g3565518030.co
@@ -2248,6 +2250,7 @@ payload:
   - DOMAIN-SUFFIX,tagger.opecloud.com
   - DOMAIN-SUFFIX,tagm.tchibo.de
   - DOMAIN-SUFFIX,tags.cdn.circlesix.co
+  - DOMAIN-SUFFIX,tags.clickagy.com
   - DOMAIN-SUFFIX,tags.creativille.co.uk
   - DOMAIN-SUFFIX,tags.master-perf-tools.com
   - DOMAIN-SUFFIX,tags.msnbc.com

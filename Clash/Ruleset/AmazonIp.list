@@ -1,5 +1,5 @@
 # 内容：AmazonIp
-# 数量：859条
+# 数量：864条
 IP-CIDR,3.0.0.0/15,no-resolve
 IP-CIDR,3.2.0.0/24,no-resolve
 IP-CIDR,3.2.2.0/23,no-resolve
@@ -37,29 +37,30 @@ IP-CIDR,3.208.0.0/12,no-resolve
 IP-CIDR,3.224.0.0/12,no-resolve
 IP-CIDR,3.248.0.0/13,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
+IP-CIDR,13.34.3.128/25,no-resolve
+IP-CIDR,13.34.6.192/26,no-resolve
 IP-CIDR,13.34.14.192/26,no-resolve
 IP-CIDR,13.34.22.56/29,no-resolve
 IP-CIDR,13.34.22.88/29,no-resolve
 IP-CIDR,13.34.22.160/27,no-resolve
 IP-CIDR,13.34.22.192/26,no-resolve
 IP-CIDR,13.34.23.0/24,no-resolve
-IP-CIDR,13.34.24.96/27,no-resolve
+IP-CIDR,13.34.24.64/26,no-resolve
 IP-CIDR,13.34.24.128/26,no-resolve
 IP-CIDR,13.34.24.192/27,no-resolve
 IP-CIDR,13.34.25.64/26,no-resolve
 IP-CIDR,13.34.25.128/26,no-resolve
 IP-CIDR,13.34.25.216/29,no-resolve
 IP-CIDR,13.34.25.248/29,no-resolve
-IP-CIDR,13.34.26.0/25,no-resolve
-IP-CIDR,13.34.26.128/26,no-resolve
-IP-CIDR,13.34.26.192/27,no-resolve
+IP-CIDR,13.34.26.0/24,no-resolve
 IP-CIDR,13.34.27.0/25,no-resolve
 IP-CIDR,13.34.27.128/27,no-resolve
 IP-CIDR,13.34.28.0/22,no-resolve
 IP-CIDR,13.34.32.0/25,no-resolve
 IP-CIDR,13.34.32.128/26,no-resolve
 IP-CIDR,13.34.33.0/24,no-resolve
-IP-CIDR,13.34.34.0/26,no-resolve
+IP-CIDR,13.34.34.0/23,no-resolve
+IP-CIDR,13.34.36.0/26,no-resolve
 IP-CIDR,13.35.0.0/16,no-resolve
 IP-CIDR,13.36.0.0/14,no-resolve
 IP-CIDR,13.48.0.0/13,no-resolve
@@ -125,7 +126,10 @@ IP-CIDR,15.230.64.0/23,no-resolve
 IP-CIDR,15.230.66.0/26,no-resolve
 IP-CIDR,15.230.129.0/24,no-resolve
 IP-CIDR,15.230.130.0/24,no-resolve
-IP-CIDR,15.230.131.0/26,no-resolve
+IP-CIDR,15.230.131.0/29,no-resolve
+IP-CIDR,15.230.131.8/31,no-resolve
+IP-CIDR,15.230.131.16/28,no-resolve
+IP-CIDR,15.230.131.32/27,no-resolve
 IP-CIDR,15.230.132.0/24,no-resolve
 IP-CIDR,15.230.133.0/28,no-resolve
 IP-CIDR,15.230.133.16/32,no-resolve
@@ -236,6 +240,7 @@ IP-CIDR,52.93.50.128/26,no-resolve
 IP-CIDR,52.93.50.192/30,no-resolve
 IP-CIDR,52.93.51.28/31,no-resolve
 IP-CIDR,52.93.56.0/23,no-resolve
+IP-CIDR,52.93.58.32/28,no-resolve
 IP-CIDR,52.93.59.0/24,no-resolve
 IP-CIDR,52.93.60.0/24,no-resolve
 IP-CIDR,52.93.62.0/23,no-resolve
