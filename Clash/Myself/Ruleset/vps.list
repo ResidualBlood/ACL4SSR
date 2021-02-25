@@ -3,3 +3,4 @@ IP-CIDR,167.114.178.0/24,no-resolve
 IP-CIDR,161.97.69.0/24,no-resolve
 
 DOMAIN-SUFFIX,anyhk.xyz
+DOMAIN-SUFFIX,oracle.com
