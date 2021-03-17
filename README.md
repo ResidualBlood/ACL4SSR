@@ -1,3 +1,5 @@
+# 自用
+仅增加了自用的配置文件以及相关列表
 # SSR去广告规则/GFWList规则/Clash规则碎片
 
 * CDN更新状态：[![Actions Status](https://github.com/ACL4SSR/ACL4SSR/workflows/Purge%20CDN%20Cache/badge.svg)](https://github.com/ACL4SSR/ACL4SSR/actions)
